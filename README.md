@@ -10,10 +10,5 @@ Junior BackEnd developer
 ### BOJ profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sin9158)](https://solved.ac/sin9158/)
 
-### 주요 소스
-
-##### Project MoKkoJi
-###### 좋아요/싫어요 입력 및 리턴
-
 ### Contact
 ✉️ sin9158@naver.com
