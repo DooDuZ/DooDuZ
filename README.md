@@ -9,3 +9,8 @@ Junior BackEnd developer
 
 ### Contact
 ✉️ sin9158@naver.com
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{DooDuZ}"/>
+</a>
