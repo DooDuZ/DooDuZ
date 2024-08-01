@@ -9,6 +9,7 @@ Junior BackEnd developer
 
 ### Contact
 ✉️ sin9158@naver.com
+**Blog** : [Tistory](https://dooduz.tistory.com/)
 
 
 <a href="https://github.com/devxb/gitanimals">
