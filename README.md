@@ -8,7 +8,7 @@ Junior BackEnd developer
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sin9158)](https://solved.ac/sin9158/)
 
 ### Contact
-✉️ sin9158@naver.com
+✉️ sin9158@naver.com  
 **Blog** : [Tistory](https://dooduz.tistory.com/)
 
 
